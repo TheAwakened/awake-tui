@@ -1,4 +1,3 @@
--e git+https://github.com/TheAwakened/awake-tui.git@46247ac42fc8a24410e7df0a4b818943ecac6d8e#egg=awake_tui
 blessings==1.6
 certifi==2017.11.5
 chardet==3.0.4
