@@ -2,9 +2,10 @@
 
 import curses
 import blessings
+from . import api
 
 def main():
-   print('Hello World!')
+   print(api.today())
 
 if __name__ == '__main__':
    main()
